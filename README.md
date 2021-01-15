@@ -1,5 +1,5 @@
 # Mathematik
-## SquareAndMultiply
+## Square and Multiply
 Berechnung der Modulo-Operation auf grossen natürlichen Potenzen:
 
 a^b  mod x
