@@ -26,7 +26,7 @@ namespace ErweiterterEuklidischerAlgorithmus
 				m = Convert.ToInt64(args[1]);
 			}
 
-			WriteHeaderToConsole($"Calculating ggT({n}, {m} with extended euclidean algorithm");
+			WriteHeaderToConsole($"Calculating ggT({n}, {m}) with extended euclidean algorithm");
 			var (ggt, x, y, steps) = Calculator.CalculateGgt(n, m);
 			
 			WriteSteps(steps);
