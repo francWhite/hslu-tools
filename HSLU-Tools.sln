@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareAndMultiply", "SquareAndMultiply\SquareAndMultiply.csproj", "{A700397B-2849-4205-9DA6-5CD2C96E511A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareAndMultiply.Test", "SquareAndMultiply.Test\SquareAndMultiply.Test.csproj", "{C5EAF35B-2228-406D-B97C-F0AB4F00D89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErweiterterEuklidischerAlgorithmus", "ErweiterterEuklidischerAlgorithmus\ErweiterterEuklidischerAlgorithmus.csproj", "{D7101FAE-A898-42A3-A1BD-F1C5DC754C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErweiterterEuklidischerAlgorithmus.Test", "ErweiterterEuklidischerAlgorithmus.Test\ErweiterterEuklidischerAlgorithmus.Test.csproj", "{CF35DCCB-9F84-4BEA-A42D-D6CBCC182DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A700397B-2849-4205-9DA6-5CD2C96E511A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A700397B-2849-4205-9DA6-5CD2C96E511A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A700397B-2849-4205-9DA6-5CD2C96E511A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A700397B-2849-4205-9DA6-5CD2C96E511A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EAF35B-2228-406D-B97C-F0AB4F00D89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EAF35B-2228-406D-B97C-F0AB4F00D89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EAF35B-2228-406D-B97C-F0AB4F00D89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EAF35B-2228-406D-B97C-F0AB4F00D89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7101FAE-A898-42A3-A1BD-F1C5DC754C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7101FAE-A898-42A3-A1BD-F1C5DC754C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7101FAE-A898-42A3-A1BD-F1C5DC754C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7101FAE-A898-42A3-A1BD-F1C5DC754C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF35DCCB-9F84-4BEA-A42D-D6CBCC182DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF35DCCB-9F84-4BEA-A42D-D6CBCC182DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF35DCCB-9F84-4BEA-A42D-D6CBCC182DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF35DCCB-9F84-4BEA-A42D-D6CBCC182DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
