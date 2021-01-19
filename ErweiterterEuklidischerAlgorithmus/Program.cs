@@ -54,7 +54,7 @@ namespace ErweiterterEuklidischerAlgorithmus
 			foreach (var step in steps)
 			{
 				Console.Write($"{step.a.ToString().PadLeft(maxLengthA)}  ");
-				Console.Write($"{step.q?.ToString().PadLeft(maxLengthQ) ?? "-"}  ");
+				Console.Write($"{step.q?.ToString().PadLeft(maxLengthQ) ?? "-".PadLeft(maxLengthQ)}  ");
 				Console.Write($"{step.u.ToString().PadLeft(maxLengthU)}  ");
 				Console.Write($"{step.v.ToString().PadLeft(maxLengthV)}  ");
 				Console.WriteLine();
